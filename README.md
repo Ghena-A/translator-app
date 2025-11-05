@@ -8,7 +8,8 @@ This project allows users to translate text between **English**, **Arabic**, and
 
 ## 🚀 Demo
 
-👉 **Try it on Hugging Face Spaces:** [Click here to open the app]([PUT-YOUR-HUGGINGFACE-LINK-HERE](https://huggingface.co/spaces/ghenaa/translator-app))
+👉**Try it on Hugging Face Spaces:** [Click here to open the app](https://huggingface.co/spaces/ghenaa/translator-app)
+
 
 ---
 
@@ -49,5 +50,5 @@ The app automatically loads the appropriate model depending on the selected tran
 
 ### 🧱 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/translator-app.git
+git clone https://github.com/Ghena_A/translator-app.git
 cd translator-app
